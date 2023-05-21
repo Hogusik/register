@@ -1,0 +1,10 @@
+# You need to provide details about yourself that we can use to contact you.
+[user]
+username = "pitrdzej"
+# You have to have one of these.
+email = "petrj@duck.com"
+discord = "Hogůšik#8426"
+
+[records]
+# Your site's records, i.e.
+A = "194.163.149.155"
